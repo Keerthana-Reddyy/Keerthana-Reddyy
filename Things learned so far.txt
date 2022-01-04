@@ -1,0 +1,6 @@
+Thing I learn So far from HTML Course:
+1.Structuring the text(Headers-H1)
+2.Lists(OL(ordered list),UL-unordered lists,<ol><li></li></ol>)
+3.Image elements(<img src="" ,height="",width="">)
+4.Links and Anchor tags(<a href="">text display</a>)
+5
